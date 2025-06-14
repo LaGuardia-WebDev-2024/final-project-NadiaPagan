@@ -13,7 +13,7 @@ ul.nav {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: #ff4592;
   position: fixed;
   top: 0;
   width: 100%;
@@ -37,7 +37,7 @@ ul.nav li a:hover:not(.active) {
 }
 
 ul.nav .active {
-  background-color: red;
+  background-color: pink;
 }
 
 h1 {
